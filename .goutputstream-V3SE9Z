@@ -1,0 +1,51 @@
+h1{
+background-color :#42CEEE;
+border:50%;
+color:black;
+text-decoration: underline red;
+text-align: center;
+font-size: 500%; 
+}
+
+.banière{
+border:5px solid black;
+   width:1200px;
+   height:100px;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+h2{
+text-align:center;
+text-decoration:underline black;
+font-size:250%;
+}
+.cadre{
+border:1px solid black;
+   width:990px;
+   height:1100px;
+   background-color:#EC42EE;
+   margin-left:auto;
+   margin-right:auto;
+   margin-top:-30px;
+}
+
+p{
+font-size:150%;
+margin-left:10px;
+}
+
+.background{
+background-color:#E88361;
+}
+
+
+
+.image1{
+margin-right:10px;
+}
+
+footer {
+    padding: 50px ;
+    background-color: #9FEFF9;
+}
